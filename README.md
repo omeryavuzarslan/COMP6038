@@ -1,1 +1,1 @@
-# COMP6038
+# COMP6038 Group 2
